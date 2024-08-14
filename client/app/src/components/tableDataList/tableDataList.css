@@ -1,0 +1,24 @@
+.table--font-header{
+    background: #F7F8F9;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.015em;
+    color: #989696;
+    text-align: left;
+}
+
+.table--font-body{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.015em;
+    color: black;
+    text-align: left;
+}
+
+.table--font-link{
+    color: #94BDE5;
+}
